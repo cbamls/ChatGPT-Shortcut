@@ -3,7 +3,7 @@ const enNavbar = {
   title: "ChatGPT SC",
   logo: {
     alt: "ChatGPT Shortcuts",
-    src: "img/logo.svg",
+    src: "img/logo-d.png",
   },
   items: [
     {
